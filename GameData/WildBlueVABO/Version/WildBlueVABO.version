@@ -1,0 +1,27 @@
+{
+	"NAME":"WildBlueVABO",
+	"DOWNLOAD":
+	"https://github.com/JadeOfMaar/WildBlueVABO/releases",
+	"URL":
+	"https://raw.githubusercontent.com/JadeOfMaar/WildBlueVABO/master/GameData/WildBlueVABO/Version/WildBlueVABO.version",
+	
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/WildBlueVABO",
+		"ALLOW_PRE_RELEASE":true
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":12,
+		"PATCH":5
+	},
+}
