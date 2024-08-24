@@ -1,6 +1,7 @@
 identifier: VABOrganizer-Jade
-name: VABOrganizer - Jade
+name: VABOrganizer - Jade's Configs
 $kref: '#/ckan/github/JadeOfMaar/VABOrganizer-Jade'
+$vref: '#/ckan/ksp-avc'
 abstract: VAB Organizer configs for the Wild Blue Industries mods and mods of Maar.
 resources:
   license: MIT
@@ -9,8 +10,8 @@ tags:
   - config
   - convenience
   - editor
-ksp_version: 1.12.5
 depends:
+  - name: ModuleManager
   - name: VABOrganizer
 supports:
   - name: Blueshift
@@ -20,6 +21,11 @@ supports:
   - name: Heisenberg
   - name: Mk-33
   - name: MOLE
+  - name: OPTSpacePlaneMain
+  - name: OPTSpacePlaneParts
   - name: Pathfinder
+  - name: RationalResourcesParts
   - name: Sandcastle
-
+install:
+  - find: VABOrganizerJade
+    install_to: GameData
