@@ -1,0 +1,27 @@
+{
+	"NAME":"VABOrganizer-Jade",
+	"DOWNLOAD":
+	"https://github.com/JadeOfMaar/VABOrganizer-Jade/releases",
+	"URL":
+	"https://raw.githubusercontent.com/JadeOfMaar/VABOrganizer-Jade/main/GameData/VABOrganizer-Jade/Version/VABOrganizer-Jade.version",
+	
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/VABOrganizer-Jade",
+		"ALLOW_PRE_RELEASE":true
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":12,
+		"PATCH":5
+	},
+}

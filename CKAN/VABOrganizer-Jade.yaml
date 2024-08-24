@@ -1,0 +1,25 @@
+identifier: VABOrganizer-Jade
+name: VABOrganizer - Jade
+$kref: '#/ckan/github/JadeOfMaar/VABOrganizer-Jade'
+abstract: VAB Organizer configs for the Wild Blue Industries mods and mods of Maar.
+resources:
+  license: MIT
+  repository: https://github.com/JadeOfMaar/VABOrganizer-Jade/
+tags:
+  - config
+  - convenience
+  - editor
+ksp_version: 1.12.5
+depends:
+  - name: VABOrganizer
+supports:
+  - name: Blueshift
+  - name: Buffalo2
+  - name: DSEV
+  - name: FlyingSaucers
+  - name: Heisenberg
+  - name: Mk-33
+  - name: MOLE
+  - name: Pathfinder
+  - name: Sandcastle
+
